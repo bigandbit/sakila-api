@@ -1,0 +1,45 @@
+{"level":"info","message":"Incoming Request - Method: GET, URL: /api/actor/200","timestamp":"2023-10-01T06:07:32.131Z"}
+{"level":"info","message":"Params: {}","timestamp":"2023-10-01T06:07:32.134Z"}
+{"level":"info","message":"Query: {}","timestamp":"2023-10-01T06:07:32.135Z"}
+{"level":"info","message":"Request Body: {}","timestamp":"2023-10-01T06:07:32.135Z"}
+{"level":"info","message":"Headers: {\"user-agent\":\"PostmanRuntime/7.33.0\",\"accept\":\"*/*\",\"postman-token\":\"d9e5bed7-d91c-4582-8c18-ca2d64c1ee54\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\"}","timestamp":"2023-10-01T06:07:32.136Z"}
+{"level":"info","message":"Outgoing Response - Status Code: 200","timestamp":"2023-10-01T06:07:32.200Z"}
+{"level":"info","message":"Incoming Request - Method: GET, URL: /api/actor/300","timestamp":"2023-10-01T06:07:47.190Z"}
+{"level":"info","message":"Params: {}","timestamp":"2023-10-01T06:07:47.191Z"}
+{"level":"info","message":"Query: {}","timestamp":"2023-10-01T06:07:47.192Z"}
+{"level":"info","message":"Request Body: {}","timestamp":"2023-10-01T06:07:47.192Z"}
+{"level":"info","message":"Headers: {\"user-agent\":\"PostmanRuntime/7.33.0\",\"accept\":\"*/*\",\"postman-token\":\"98841261-a05d-4bdf-a747-11ea1d69bfb3\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\"}","timestamp":"2023-10-01T06:07:47.193Z"}
+{"level":"info","message":"Outgoing Response - Status Code: 204","timestamp":"2023-10-01T06:07:47.197Z"}
+{"level":"info","message":"Incoming Request - Method: POST, URL: /api/actor","timestamp":"2023-10-01T06:08:06.427Z"}
+{"level":"info","message":"Params: {}","timestamp":"2023-10-01T06:08:06.427Z"}
+{"level":"info","message":"Query: {}","timestamp":"2023-10-01T06:08:06.428Z"}
+{"level":"info","message":"Request Body: {\"first_name\":\"Minh\",\"last_name\":\"Le\"}","timestamp":"2023-10-01T06:08:06.428Z"}
+{"level":"info","message":"Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.33.0\",\"accept\":\"*/*\",\"postman-token\":\"f18fd0b6-d527-4ce0-92fb-da228ed6a0f6\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"54\"}","timestamp":"2023-10-01T06:08:06.429Z"}
+{"level":"info","message":"Outgoing Response - Status Code: 201","timestamp":"2023-10-01T06:08:06.519Z"}
+{"level":"info","message":"Incoming Request - Method: POST, URL: /api/actor","timestamp":"2023-10-01T06:10:45.104Z"}
+{"level":"info","message":"Params: {}","timestamp":"2023-10-01T06:10:45.107Z"}
+{"level":"info","message":"Query: {}","timestamp":"2023-10-01T06:10:45.108Z"}
+{"level":"info","message":"Request Body: {\"first_name\":\"Minh\",\"last_name\":\"Le\"}","timestamp":"2023-10-01T06:10:45.109Z"}
+{"level":"info","message":"Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.33.0\",\"accept\":\"*/*\",\"postman-token\":\"d9cdc81a-5088-4f3c-9722-565e0bafcdd5\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"54\"}","timestamp":"2023-10-01T06:10:45.109Z"}
+{"level":"info","message":"Outgoing Response - Status Code: 201","timestamp":"2023-10-01T06:10:45.199Z"}
+{"level":"info","message":"Incoming Request - Method: POST, URL: /api/actor","timestamp":"2023-10-01T06:21:55.594Z"}
+{"level":"info","message":"Params: {}","timestamp":"2023-10-01T06:21:55.598Z"}
+{"level":"info","message":"Query: {}","timestamp":"2023-10-01T06:21:55.598Z"}
+{"level":"info","message":"Request Body: {\"first_name\":\"Minh\",\"last_name\":\"Le\"}","timestamp":"2023-10-01T06:21:55.599Z"}
+{"level":"info","message":"Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.33.0\",\"accept\":\"*/*\",\"postman-token\":\"75d03dcd-2dac-4ed0-8896-006835521906\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"54\"}","timestamp":"2023-10-01T06:21:55.599Z"}
+{"level":"info","message":"Outgoing Response - Status Code: 201","timestamp":"2023-10-01T06:21:55.700Z"}
+{"level":"info","message":"Incoming Request - Method: POST, URL: /api/actor","timestamp":"2023-10-01T06:25:50.449Z"}
+{"level":"info","message":"Params: {}","timestamp":"2023-10-01T06:26:15.749Z"}
+{"level":"info","message":"Query: {}","timestamp":"2023-10-01T06:26:15.750Z"}
+{"level":"info","message":"Request Body: {\"first_name\":\"Minh\",\"last_name\":\"Le\"}","timestamp":"2023-10-01T06:26:15.751Z"}
+{"level":"info","message":"Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.33.0\",\"accept\":\"*/*\",\"postman-token\":\"a617ee24-768c-460d-a0d0-d80aea78dde1\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"54\"}","timestamp":"2023-10-01T06:26:15.751Z"}
+{"level":"info","message":"Incoming Request - Method: POST, URL: /api/actor","timestamp":"2023-10-01T06:29:44.588Z"}
+{"level":"info","message":"Params: {}","timestamp":"2023-10-01T06:29:44.592Z"}
+{"level":"info","message":"Query: {}","timestamp":"2023-10-01T06:29:44.592Z"}
+{"level":"info","message":"Request Body: {\"first_name\":\"Minh\",\"last_name\":\"Le\"}","timestamp":"2023-10-01T06:29:44.593Z"}
+{"level":"info","message":"Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.33.0\",\"accept\":\"*/*\",\"postman-token\":\"4ae54895-3345-4f68-8805-3f8904d1c0d9\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"54\"}","timestamp":"2023-10-01T06:29:44.593Z"}
+{"level":"info","message":"Outgoing Response - Status Code: 201","timestamp":"2023-10-01T06:29:44.674Z"}
+{"level":"info","message":"uuid = 4ce567b1-9204-4f2a-b277-f9219e6d304f - Incoming Request - Method: POST, URL: /api/actor, Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.33.0\",\"accept\":\"*/*\",\"postman-token\":\"ffb81bd2-5cc8-4fc4-9e75-38b37489f995\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"54\"}, Params: {}, Query: {}, Request Body: {\"first_name\":\"Minh\",\"last_name\":\"Le\"}","timestamp":"2023-10-01T06:41:09.283Z"}
+{"level":"info","message":"uuid = 4ce567b1-9204-4f2a-b277-f9219e6d304f - Outgoing Response - Status Code: 201","timestamp":"2023-10-01T06:41:09.366Z"}
+{"level":"info","message":"uuid = b2f67f0b-2895-4ab0-a0cc-d870918ca4f6 - Incoming Request - Method: GET, URL: /api/actor, Headers: {\"user-agent\":\"PostmanRuntime/7.33.0\",\"accept\":\"*/*\",\"postman-token\":\"8e07f6d3-c14b-4c05-aa18-c47401c094f6\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\"}, Params: {}, Query: {}, Request Body: {}","timestamp":"2023-10-01T06:43:12.036Z"}
+{"level":"info","message":"uuid = b2f67f0b-2895-4ab0-a0cc-d870918ca4f6 - Outgoing Response - Status Code: 200","timestamp":"2023-10-01T06:43:12.050Z"}
